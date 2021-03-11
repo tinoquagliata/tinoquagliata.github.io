@@ -1,0 +1,17 @@
+.content {
+	padding-top: 2%;
+}
+h1 {
+	font-family: 'Poppins', sans-serif;
+}
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	font-size: 54px;
+}
+
+body{
+	background-color: #80bfff;
+}
