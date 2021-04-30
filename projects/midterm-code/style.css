@@ -1,0 +1,112 @@
+.content {
+	padding-top: 5%;
+}
+
+.body {
+	background-color: #fc5f1a;
+	text-indent: offset 2;
+}
+
+@media (min-width: 576.37px) {
+.line1, .line3 {
+	font-family: 'Anton', sans-serif; 
+	font-size: 60px;
+	color: #010833;
+	text-align: center;
+}
+}
+
+@media (min-width: 576.85px) {
+.line2 {
+	font-size: 120px;
+	font-family: 'Anton', sans-serif;
+	color: #010833;
+	text-align: center;
+}
+}
+
+.bio {
+	padding-top: 3%;
+	font-family: 'Nunito Sans', sans-serif;
+	text-align: center;
+	font-weight: 500;
+	font-style: italic;
+	line-height: 1;
+	padding-bottom: 5%;
+}
+
+@media (min-width: 576.15px) (line-height: 1.75) {
+.text {
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 18px;
+}
+}
+
+h2 {
+	font-family: 'Anton', sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	color: #010833;
+	font-size: 30px;
+}
+
+.hyphens {
+	padding-top: 5%;
+}
+
+.hyphens {
+	padding-bottom: 5%;
+}
+.hyphens {
+	margin-top: 5%;
+}
+
+.hyphens{
+	margin-bottom: 5%;
+}
+
+.white-box {
+background-color: white;
+color: black;
+  }
+
+.title-box h1 {
+	text-align: center;
+	color: #ffa500;
+	font-size: 70px;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 2.5px;
+
+}
+
+.title-box {
+	background-color: #010833;
+	padding-top: 2%;
+	padding-bottom: 2%
+	margin-bottom: 2%
+	margin-top: 2%;
+}
+
+.description {
+	background-color: white;
+}
+
+.lineM {
+	font-weight: 500;
+	letter-spacing: 1.5px;
+	font-style: 18px;
+	color: #ffa500;
+}
+
+.lineR {
+	font-size: 30px
+}
+.lineR{
+	font-family: 'Anton', sans-serif;
+}
+
+.lineI {
+	font-weight: 200;
+	font-size: 16px;
+	color: #010833;
+}
